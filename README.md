@@ -10,7 +10,7 @@ An ML model that uses a Decision Tree Classification Algorithm to predict what t
 6. Created a Persisting Model by dumping then loading the trained and tested model with joblib.
 7. Created a Tree Graph Viz using sklearn.tree.
 
-### About Dataset
+### About the Dataset
 The dataset consists of 10,000 data points stored as rows with 6 features in columns:
 1. 	Air temperature [K]: generated using a random walk process later normalized to a standard deviation of 2 K around 300 K
 2. 	Process temperature [K]: generated using a random walk process normalized to a standard deviation of 1 K, added to the air temperature plus 10 K.
