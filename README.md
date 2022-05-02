@@ -11,7 +11,7 @@ An ML model that uses a Decision Tree Classification Algorithm to predict what t
 7. Created a Tree Graph Viz using sklearn.tree.
 
 ### About Dataset
-The dataset consists of 10,000 data points stored as rows with 6 features in columns:
+The dataset consists of 10,000 data points stored as rows with 6 features in columns:/n
 •	air temperature [K]: generated using a random walk process later normalized to a standard deviation of 2 K around 300 K
 •	process temperature [K]: generated using a random walk process normalized to a standard deviation of 1 K, added to the air temperature plus 10 K.
 •	rotational speed [rpm]: calculated from powepower of 2860 W, overlaid with a normally distributed noise
