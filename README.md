@@ -11,12 +11,12 @@ An ML model that uses a Decision Tree Classification Algorithm to predict what t
 7. Created a Tree Graph Viz using sklearn.tree.
 
 ### About Dataset
-The dataset consists of 10,000 data points stored as rows with 6 features in columns:/n
-•	air temperature [K]: generated using a random walk process later normalized to a standard deviation of 2 K around 300 K
-•	process temperature [K]: generated using a random walk process normalized to a standard deviation of 1 K, added to the air temperature plus 10 K.
-•	rotational speed [rpm]: calculated from powepower of 2860 W, overlaid with a normally distributed noise
-•	torque [Nm]: torque values are normally distributed around 40 Nm with an Ïƒ = 10 Nm and no negative values.
-•	tool wear [min]: Minutes of tool wear to the used tool in the process.
-•	Failure_Type: Type of failure as a result of given operating variables. 
+The dataset consists of 10,000 data points stored as rows with 6 features in columns:
+1. 	Air temperature [K]: generated using a random walk process later normalized to a standard deviation of 2 K around 300 K
+2. 	Process temperature [K]: generated using a random walk process normalized to a standard deviation of 1 K, added to the air temperature plus 10 K.
+3. 	Rotational speed [rpm]: calculated from powepower of 2860 W, overlaid with a normally distributed noise
+4. 	Torque [Nm]: torque values are normally distributed around 40 Nm with an Ïƒ = 10 Nm and no negative values.
+5. 	Tool wear [min]: Minutes of tool wear to the used tool in the process.
+6. 	Failure_Type: Type of failure as a result of given operating variables. 
 
 
