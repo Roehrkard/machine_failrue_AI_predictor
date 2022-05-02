@@ -1,4 +1,4 @@
-# Machine Failure Predictor
+# Machine Failure AI Predictor
 An ML model that uses a Decision Tree Classification Algorithm to predict what type of machine failure will occur given a set of operating variables.
 
 ## Steps
